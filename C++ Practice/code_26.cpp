@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
- int n = 3;
+ int n = 5;
 
  int numb = 1;
 
@@ -14,7 +14,7 @@ int main(){
     }
     cout << endl;
  }
-
+cout<<"Afetr pattern\t"<<numb<<endl;
 return 0;
 
 }
